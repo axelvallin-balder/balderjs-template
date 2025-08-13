@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "balderjs": "11.2.3",
+    "typescript": "5.9.2"
+  }
+}
