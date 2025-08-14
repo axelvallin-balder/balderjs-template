@@ -1,5 +1,5 @@
 # balderjs-template
 
 ## Run
-`npm install`
+`npm install`  
 `npx balderjs`
