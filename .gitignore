@@ -1,14 +1,14 @@
 # Libraries
 node_modules
 
-# BalderJS JS files
+# BalderJS generated files
 .dev
+balder.ts
+tsconfig.json
+*.js
 
 # Generated package-lock file
 package-lock.json
-
-# Generated JS files
-*.js
 
 # BalderJS assets
 assets
